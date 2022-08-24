@@ -80,3 +80,22 @@ colocar ele, para reconhecer qual tabela vai ser migrada.
 Agora sim, para implementar no banco de dados:
 
 **`python manage.py migrate nome_applicacao numero`**
+
+# Autentificação e credenciais
+
+#### Importação Autentificação:
+
+**`from django.contrib.auth import authenticate`**
+
+#### Importação Login:
+
+**`from django.contrib.auth import login`**
+
+#### Importação Logout:
+
+**`from django.contrib.auth import logout`**
+
+ou 
+
+**`from django.contrib.auth import authenticate, login, logout`**
+
