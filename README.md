@@ -1,5 +1,6 @@
 # Anotações
 
+Minhas anotações das aulas.
 
 ## Iniciar um projeto
 
